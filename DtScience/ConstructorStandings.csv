@@ -1,0 +1,656 @@
+,Pos,Team,PTS,Year
+0,1,Vanwall,48,1958
+1,2,Ferrari,40,1958
+2,3,Cooper Climax,31,1958
+3,4,BRM,18,1958
+4,5,Maserati,6,1958
+5,6,Lotus Climax,3,1958
+6,1,Cooper Climax,40,1959
+7,2,Ferrari,32,1959
+8,3,BRM,18,1959
+9,4,Lotus Climax,5,1959
+10,1,Cooper Climax,48,1960
+11,2,Lotus Climax,34,1960
+12,3,Ferrari,26,1960
+13,4,BRM,8,1960
+14,5,Cooper Maserati,3,1960
+15,6,Cooper Castellotti,3,1960
+16,1,Ferrari,40,1961
+17,2,Lotus Climax,32,1961
+18,3,Porsche,22,1961
+19,4,Cooper Climax,14,1961
+20,5,BRM Climax,7,1961
+21,1,BRM,42,1962
+22,2,Lotus Climax,36,1962
+23,3,Cooper Climax,29,1962
+24,4,Lola Climax,19,1962
+25,5,Porsche,18,1962
+26,6,Ferrari,18,1962
+27,7,Brabham Climax,6,1962
+28,8,Lotus BRM,1,1962
+29,1,Lotus Climax,54,1963
+30,2,BRM,36,1963
+31,3,Brabham Climax,28,1963
+32,4,Ferrari,26,1963
+33,5,Cooper Climax,25,1963
+34,6,BRP BRM,6,1963
+35,7,Porsche,5,1963
+36,8,Lotus BRM,4,1963
+37,1,Ferrari,45,1964
+38,2,BRM,42,1964
+39,3,Lotus Climax,37,1964
+40,4,Brabham Climax,30,1964
+41,5,Cooper Climax,16,1964
+42,6,Brabham BRM,7,1964
+43,7,BRP BRM,5,1964
+44,8,Lotus BRM,3,1964
+45,1,Lotus Climax,54,1965
+46,2,BRM,45,1965
+47,3,Brabham Climax,27,1965
+48,4,Ferrari,26,1965
+49,5,Cooper Climax,14,1965
+50,6,Honda,11,1965
+51,7,Brabham BRM,5,1965
+52,8,Lotus BRM,2,1965
+53,1,Brabham Repco,42,1966
+54,2,Ferrari,31,1966
+55,3,Cooper Maserati,30,1966
+56,4,BRM,22,1966
+57,5,Lotus BRM,13,1966
+58,6,Lotus Climax,8,1966
+59,7,Eagle Climax,4,1966
+60,8,Honda,3,1966
+61,9,McLaren Ford,2,1966
+62,10,Brabham BRM,1,1966
+63,11,McLaren Serenissima,1,1966
+64,12,Brabham Climax,1,1966
+65,1,Brabham Repco,63,1967
+66,2,Lotus Ford,44,1967
+67,3,Cooper Maserati,28,1967
+68,4,Honda,20,1967
+69,5,Ferrari,20,1967
+70,6,BRM,17,1967
+71,7,Eagle Weslake,13,1967
+72,8,Cooper Climax,6,1967
+73,9,Lotus BRM,6,1967
+74,10,McLaren BRM,3,1967
+75,11,Brabham Climax,2,1967
+76,1,Lotus Ford,62,1968
+77,2,McLaren Ford,49,1968
+78,3,Matra Ford,45,1968
+79,4,Ferrari,32,1968
+80,5,BRM,28,1968
+81,6,Honda,14,1968
+82,7,Cooper BRM,14,1968
+83,8,Brabham Repco,10,1968
+84,9,Matra,8,1968
+85,10,Mclaren BRM,3,1968
+86,1,Matra Ford,66,1969
+87,2,Brabham Ford,49,1969
+88,3,Lotus Ford,47,1969
+89,4,McLaren Ford,38,1969
+90,5,Ferrari,7,1969
+91,6,BRM,7,1969
+92,1,Lotus Ford,59,1970
+93,2,Ferrari,52,1970
+94,3,March Ford,48,1970
+95,4,Brabham Ford,35,1970
+96,5,McLaren Ford,35,1970
+97,6,BRM,23,1970
+98,7,Matra,23,1970
+99,8,Surtees Ford,3,1970
+100,1,Tyrrell Ford,73,1971
+101,2,BRM,36,1971
+102,3,Ferrari,33,1971
+103,4,March Ford,33,1971
+104,5,Lotus Ford,21,1971
+105,6,McLaren Ford,10,1971
+106,7,Matra,9,1971
+107,8,Surtees Ford,8,1971
+108,9,Brabham Ford,5,1971
+109,1,Lotus Ford,61,1972
+110,2,Tyrrell Ford,51,1972
+111,3,McLaren Ford,47,1972
+112,4,Ferrari,33,1972
+113,5,Surtees Ford,18,1972
+114,6,March Ford,15,1972
+115,7,BRM,14,1972
+116,8,Matra,12,1972
+117,9,Brabham Ford,7,1972
+118,1,Lotus Ford,92,1973
+119,2,Tyrrell Ford,82,1973
+120,3,McLaren Ford,58,1973
+121,4,Brabham Ford,22,1973
+122,5,March Ford,14,1973
+123,6,Ferrari,12,1973
+124,7,BRM,12,1973
+125,8,Shadow Ford,9,1973
+126,9,Surtees Ford,7,1973
+127,10,Iso Marlboro Ford,2,1973
+128,11,Tecno,1,1973
+129,1,McLaren Ford,73,1974
+130,2,Ferrari,65,1974
+131,3,Tyrrell Ford,52,1974
+132,4,Lotus Ford,42,1974
+133,5,Brabham Ford,35,1974
+134,6,Hesketh Ford,15,1974
+135,7,BRM,10,1974
+136,8,Shadow Ford,7,1974
+137,9,March Ford,6,1974
+138,10,Iso Marlboro Ford,4,1974
+139,11,Surtees Ford,3,1974
+140,12,Lola Ford,1,1974
+141,1,Ferrari,72,1975
+142,2,Brabham Ford,54,1975
+143,3,McLaren Ford,53,1975
+144,4,Hesketh Ford,33,1975
+145,5,Tyrrell Ford,25,1975
+146,6,Shadow Ford,9,1975
+147,7,Lotus Ford,9,1975
+148,8,March Ford,7,1975
+149,9,Frank Williams Racing Cars/Williams,6,1975
+150,10,Parnelli Ford,5,1975
+151,11,Hill Ford,3,1975
+152,12,Penske Ford,2,1975
+153,13,Ensign Ford,1,1975
+154,1,Ferrari,83,1976
+155,2,McLaren Ford,74,1976
+156,3,Tyrrell Ford,71,1976
+157,4,Lotus Ford,29,1976
+158,5,Penske Ford,20,1976
+159,6,Ligier Matra,20,1976
+160,7,March Ford,19,1976
+161,8,Shadow Ford,10,1976
+162,9,Brabham Alfa Romeo,9,1976
+163,10,Surtees Ford,7,1976
+164,11,Fittipaldi Ford,3,1976
+165,12,Ensign Ford,2,1976
+166,13,Parnelli Ford,1,1976
+167,1,Ferrari,95,1977
+168,2,Lotus Ford,62,1977
+169,3,McLaren Ford,60,1977
+170,4,Wolf Ford,55,1977
+171,5,Brabham Alfa Romeo,27,1977
+172,6,Tyrrell Ford,27,1977
+173,7,Shadow Ford,23,1977
+174,8,Ligier Matra,18,1977
+175,9,Fittipaldi Ford,11,1977
+176,10,Ensign Ford,10,1977
+177,11,Surtees Ford,6,1977
+178,12,Penske Ford,1,1977
+179,1,Lotus Ford,86,1978
+180,2,Ferrari,58,1978
+181,3,Brabham Alfa Romeo,53,1978
+182,4,Tyrrell Ford,38,1978
+183,5,Wolf Ford,24,1978
+184,6,Ligier Matra,19,1978
+185,7,Fittipaldi Ford,17,1978
+186,8,McLaren Ford,15,1978
+187,9,Williams Ford,11,1978
+188,10,Arrows Ford,11,1978
+189,11,Shadow Ford,6,1978
+190,12,Renault,3,1978
+191,13,Surtees Ford,1,1978
+192,14,Ensign Ford,1,1978
+193,1,Ferrari,113,1979
+194,2,Williams Ford,75,1979
+195,3,Ligier Ford,61,1979
+196,4,Lotus Ford,39,1979
+197,5,Tyrrell Ford,28,1979
+198,6,Renault,26,1979
+199,7,McLaren Ford,15,1979
+200,8,Brabham Ford,7,1979
+201,9,Arrows Ford,5,1979
+202,10,Shadow Ford,3,1979
+203,11,ATS Ford,2,1979
+204,12,Fittipaldi Ford,1,1979
+205,1,Williams Ford,120,1980
+206,2,Ligier Ford,66,1980
+207,3,Brabham Ford,55,1980
+208,4,Renault,38,1980
+209,5,Lotus Ford,14,1980
+210,6,Tyrrell Ford,12,1980
+211,7,Arrows Ford,11,1980
+212,8,Fittipaldi Ford,11,1980
+213,9,McLaren Ford,11,1980
+214,10,Ferrari,8,1980
+215,11,Alfa Romeo,4,1980
+216,1,Williams Ford,95,1981
+217,2,Brabham Ford,61,1981
+218,3,Renault,54,1981
+219,4,Ligier Matra,44,1981
+220,5,Ferrari,34,1981
+221,6,McLaren Ford,28,1981
+222,7,Lotus Ford,22,1981
+223,8,Arrows Ford,10,1981
+224,9,Alfa Romeo,10,1981
+225,10,Tyrrell Ford,10,1981
+226,11,Ensign Ford,5,1981
+227,12,Theodore Ford,1,1981
+228,13,ATS Ford,1,1981
+229,1,Ferrari,74,1982
+230,2,McLaren Ford,69,1982
+231,3,Renault,62,1982
+232,4,Williams Ford,58,1982
+233,5,Lotus Ford,30,1982
+234,6,Tyrrell Ford,25,1982
+235,7,Brabham BMW,22,1982
+236,8,Ligier Matra,20,1982
+237,9,Brabham Ford,19,1982
+238,10,Alfa Romeo,7,1982
+239,11,Arrows Ford,5,1982
+240,12,ATS Ford,4,1982
+241,13,Osella Ford,3,1982
+242,14,Fittipaldi Ford,1,1982
+243,1,Ferrari,89,1983
+244,2,Renault,79,1983
+245,3,Brabham BMW,72,1983
+246,4,Williams Ford,36,1983
+247,5,McLaren Ford,34,1983
+248,6,Alfa Romeo,18,1983
+249,7,Tyrrell Ford,12,1983
+250,8,Lotus Renault,11,1983
+251,9,Toleman Hart,10,1983
+252,10,Arrows Ford,4,1983
+253,11,Williams Honda,2,1983
+254,12,Theodore Ford,1,1983
+255,13,Lotus Ford,1,1983
+256,1,McLaren TAG,143,1984
+257,2,Ferrari,57,1984
+258,3,Lotus Renault,47,1984
+259,4,Brabham BMW,38,1984
+260,5,Renault,34,1984
+261,6,Williams Honda,25,1984
+262,7,Toleman Hart,16,1984
+263,8,Alfa Romeo,11,1984
+264,9,Arrows BMW,3,1984
+265,10,Ligier Renault,3,1984
+266,11,Arrows Ford,3,1984
+267,12,Osella Alfa Romeo,2,1984
+268,1,McLaren TAG,90,1985
+269,2,Ferrari,82,1985
+270,3,Lotus Renault,71,1985
+271,4,Williams Honda,71,1985
+272,5,Brabham BMW,26,1985
+273,6,Ligier Renault,23,1985
+274,7,Renault,16,1985
+275,8,Arrows BMW,14,1985
+276,9,Tyrrell Ford,4,1985
+277,10,Tyrrell Renault,3,1985
+278,1,Williams Honda,141,1986
+279,2,McLaren TAG,96,1986
+280,3,Lotus Renault,58,1986
+281,4,Ferrari,37,1986
+282,5,Ligier Renault,29,1986
+283,6,Benetton BMW,19,1986
+284,7,Tyrrell Renault,11,1986
+285,8,Lola Ford,6,1986
+286,9,Brabham BMW,2,1986
+287,10,Arrows BMW,1,1986
+288,1,Williams Honda,137,1987
+289,2,McLaren TAG,76,1987
+290,3,Lotus Honda,64,1987
+291,4,Ferrari,53,1987
+292,5,Benetton Ford,28,1987
+293,6,Tyrrell Ford,11,1987
+294,7,Arrows Megatron,11,1987
+295,8,Brabham BMW,10,1987
+296,9,Lola Ford,3,1987
+297,10,Zakspeed,2,1987
+298,11,March Ford,1,1987
+299,12,Ligier Megatron,1,1987
+300,13,AGS Ford,1,1987
+301,1,McLaren Honda,199,1988
+302,2,Ferrari,65,1988
+303,3,Benetton Ford,39,1988
+304,4,Arrows Megatron,23,1988
+305,5,Lotus Honda,23,1988
+306,6,March Judd,22,1988
+307,7,Williams Judd,20,1988
+308,8,Tyrrell Ford,5,1988
+309,9,Rial Ford,3,1988
+310,10,Minardi Ford,1,1988
+311,1,McLaren Honda,141,1989
+312,2,Williams Renault,77,1989
+313,3,Ferrari,59,1989
+314,4,Benetton Ford,39,1989
+315,5,Tyrrell Ford,16,1989
+316,6,Lotus Judd,15,1989
+317,7,Arrows Ford,13,1989
+318,8,Dallara Ford,8,1989
+319,9,Brabham Judd,8,1989
+320,10,Onyx Ford,6,1989
+321,11,Minardi Ford,6,1989
+322,12,March Judd,4,1989
+323,13,Rial Ford,3,1989
+324,14,Ligier Ford,3,1989
+325,15,AGS Ford,1,1989
+326,16,Lola Lamborghini,1,1989
+327,1,McLaren Honda,121,1990
+328,2,Ferrari,110,1990
+329,3,Benetton Ford,71,1990
+330,4,Williams Renault,57,1990
+331,5,Tyrrell Ford,16,1990
+332,6,Lola Lamborghini,11,1990
+333,7,Leyton House Judd,7,1990
+334,8,Lotus Lamborghini,3,1990
+335,9,Arrows Ford,2,1990
+336,10,Brabham Judd,2,1990
+337,1,McLaren Honda,139,1991
+338,2,Williams Renault,125,1991
+339,3,Ferrari,55,1991
+340,4,Benetton Ford,38,1991
+341,5,Jordan Ford,13,1991
+342,6,Tyrrell Honda,12,1991
+343,7,Minardi Ferrari,6,1991
+344,8,Dallara Judd,5,1991
+345,9,Lotus Judd,3,1991
+346,10,Brabham Yamaha,3,1991
+347,11,Lola Ford,2,1991
+348,12,Leyton House Ilmor,1,1991
+349,1,Williams Renault,164,1992
+350,2,McLaren Honda,99,1992
+351,3,Benetton Ford,91,1992
+352,4,Ferrari,21,1992
+353,5,Lotus Ford,13,1992
+354,6,Tyrrell Ilmor,8,1992
+355,7,Footwork Mugen Honda,6,1992
+356,8,Ligier Renault,6,1992
+357,9,March Ilmor,3,1992
+358,10,Dallara Ferrari,2,1992
+359,11,Jordan Yamaha,1,1992
+360,12,Minardi Lamborghini,1,1992
+361,13,Venturi Lamborghini,1,1992
+362,1,Williams Renault,168,1993
+363,2,McLaren Ford,84,1993
+364,3,Benetton Ford,72,1993
+365,4,Ferrari,28,1993
+366,5,Ligier Renault,23,1993
+367,6,Lotus Ford,12,1993
+368,7,Sauber,12,1993
+369,8,Minardi Ford,7,1993
+370,9,Footwork Mugen Honda,4,1993
+371,10,Larrousse Lamborghini,3,1993
+372,11,Jordan Hart,3,1993
+373,1,Williams Renault,118,1994
+374,2,Benetton Ford,103,1994
+375,3,Ferrari,71,1994
+376,4,McLaren Peugeot,42,1994
+377,5,Jordan Hart,28,1994
+378,6,Ligier Renault,13,1994
+379,7,Tyrrell Yamaha,13,1994
+380,8,Sauber Mercedes,12,1994
+381,9,Footwork Ford,9,1994
+382,10,Minardi Ford,5,1994
+383,11,Larrousse Ford,2,1994
+384,1,Benetton Renault,137,1995
+385,2,Williams Renault,112,1995
+386,3,Ferrari,73,1995
+387,4,McLaren Mercedes,30,1995
+388,5,Ligier Mugen Honda,24,1995
+389,6,Jordan Peugeot,21,1995
+390,7,Sauber Ford,18,1995
+391,8,Footwork Hart,5,1995
+392,9,Tyrrell Yamaha,5,1995
+393,10,Minardi Ford,1,1995
+394,1,Williams Renault,175,1996
+395,2,Ferrari,70,1996
+396,3,Benetton Renault,68,1996
+397,4,McLaren Mercedes,49,1996
+398,5,Jordan Peugeot,22,1996
+399,6,Ligier Mugen Honda,15,1996
+400,7,Sauber Ford,11,1996
+401,8,Tyrrell Yamaha,5,1996
+402,9,Footwork Hart,1,1996
+403,1,Williams Renault,123,1997
+404,2,Ferrari,102,1997
+405,3,Benetton Renault,67,1997
+406,4,McLaren Mercedes,63,1997
+407,5,Jordan Peugeot,33,1997
+408,6,Prost Mugen Honda,21,1997
+409,7,Sauber Petronas,16,1997
+410,8,Arrows Yamaha,9,1997
+411,9,Stewart Ford,6,1997
+412,10,Tyrrell Ford,2,1997
+413,1,McLaren Mercedes,156,1998
+414,2,Ferrari,133,1998
+415,3,Williams Mecachrome,38,1998
+416,4,Jordan Mugen Honda,34,1998
+417,5,Benetton Playlife,33,1998
+418,6,Sauber Petronas,10,1998
+419,7,Arrows,6,1998
+420,8,Stewart Ford,5,1998
+421,9,Prost Peugeot,1,1998
+422,1,Ferrari,128,1999
+423,2,McLaren Mercedes,124,1999
+424,3,Jordan Mugen Honda,61,1999
+425,4,Stewart Ford,36,1999
+426,5,Williams Supertec,35,1999
+427,6,Benetton Playlife,16,1999
+428,7,Prost Peugeot,9,1999
+429,8,Sauber Petronas,5,1999
+430,9,Minardi Ford,1,1999
+431,10,Arrows,1,1999
+432,1,Ferrari,170,2000
+433,2,McLaren Mercedes,152,2000
+434,3,Williams BMW,36,2000
+435,4,Benetton Playlife,20,2000
+436,5,BAR Honda,20,2000
+437,6,Jordan Mugen Honda,17,2000
+438,7,Arrows Supertec,7,2000
+439,8,Sauber Petronas,6,2000
+440,9,Jaguar Cosworth,4,2000
+441,1,Ferrari,179,2001
+442,2,McLaren Mercedes,102,2001
+443,3,Williams BMW,80,2001
+444,4,Sauber Petronas,21,2001
+445,5,Jordan Honda,19,2001
+446,6,BAR Honda,17,2001
+447,7,Benetton Renault,10,2001
+448,8,Jaguar Cosworth,9,2001
+449,9,Prost Acer,4,2001
+450,10,Arrows Asiatech,1,2001
+451,1,Ferrari,221,2002
+452,2,Williams BMW,92,2002
+453,3,McLaren Mercedes,65,2002
+454,4,Renault,23,2002
+455,5,Sauber Petronas,11,2002
+456,6,Jordan Honda,9,2002
+457,7,Jaguar Cosworth,8,2002
+458,8,BAR Honda,7,2002
+459,9,Minardi Asiatech,2,2002
+460,10,Toyota,2,2002
+461,11,Arrows Cosworth,2,2002
+462,1,Ferrari,158,2003
+463,2,Williams BMW,144,2003
+464,3,McLaren Mercedes,142,2003
+465,4,Renault,88,2003
+466,5,BAR Honda,26,2003
+467,6,Sauber Petronas,19,2003
+468,7,Jaguar Cosworth,18,2003
+469,8,Toyota,16,2003
+470,9,Jordan Ford,13,2003
+471,10,Minardi Cosworth,0,2003
+472,1,Ferrari,262,2004
+473,2,BAR Honda,119,2004
+474,3,Renault,105,2004
+475,4,Williams BMW,88,2004
+476,5,McLaren Mercedes,69,2004
+477,6,Sauber Petronas,34,2004
+478,7,Jaguar Cosworth,10,2004
+479,8,Toyota,9,2004
+480,9,Jordan Ford,5,2004
+481,10,Minardi Cosworth,1,2004
+482,1,Renault,191,2005
+483,2,McLaren Mercedes,182,2005
+484,3,Ferrari,100,2005
+485,4,Toyota,88,2005
+486,5,Williams BMW,66,2005
+487,6,BAR Honda,38,2005
+488,7,RBR Cosworth,34,2005
+489,8,Sauber Petronas,20,2005
+490,9,Jordan Toyota,12,2005
+491,10,Minardi Cosworth,7,2005
+492,1,Renault,206,2006
+493,2,Ferrari,201,2006
+494,3,McLaren Mercedes,110,2006
+495,4,Honda,86,2006
+496,5,Sauber BMW,36,2006
+497,6,Toyota,35,2006
+498,7,RBR Ferrari,16,2006
+499,8,Williams Cosworth,11,2006
+500,9,STR Cosworth,1,2006
+501,10,MF1 Toyota,0,2006
+502,11,Super Aguri Honda,0,2006
+503,1,Ferrari,204,2007
+504,2,Sauber BMW,101,2007
+505,3,Renault,51,2007
+506,4,Williams Toyota,33,2007
+507,5,Red Bull Renault,24,2007
+508,6,Toyota,13,2007
+509,7,STR Ferrari,8,2007
+510,8,Honda,6,2007
+511,9,Super Aguri Honda,4,2007
+512,10,Spyker Ferrari,1,2007
+513,EX,McLaren Mercedes,0,2007
+514,1,Ferrari,172,2008
+515,2,McLaren Mercedes,151,2008
+516,3,Sauber BMW,135,2008
+517,4,Renault,80,2008
+518,5,Toyota,56,2008
+519,6,STR Ferrari,39,2008
+520,7,Red Bull Renault,29,2008
+521,8,Williams Toyota,26,2008
+522,9,Honda,14,2008
+523,10,Force India Ferrari,0,2008
+524,11,Super Aguri Honda,0,2008
+525,1,Brawn Mercedes,172,2009
+526,2,RBR Renault,153,2009
+527,3,McLaren Mercedes,71,2009
+528,4,Ferrari,70,2009
+529,5,Toyota,59,2009
+530,6,Sauber BMW,36,2009
+531,7,Williams Toyota,34,2009
+532,8,Renault,26,2009
+533,9,Force India Mercedes,13,2009
+534,10,STR Ferrari,8,2009
+535,1,RBR Renault,498,2010
+536,2,McLaren Mercedes,454,2010
+537,3,Ferrari,396,2010
+538,4,Mercedes,214,2010
+539,5,Renault,163,2010
+540,6,Williams Cosworth,69,2010
+541,7,Force India Mercedes,68,2010
+542,8,Sauber Ferrari,44,2010
+543,9,STR Ferrari,13,2010
+544,10,Lotus Cosworth,0,2010
+545,11,HRT Cosworth,0,2010
+546,12,Virgin Cosworth,0,2010
+547,1,Red Bull Racing Renault,650,2011
+548,2,McLaren Mercedes,497,2011
+549,3,Ferrari,375,2011
+550,4,Mercedes,165,2011
+551,5,Renault,73,2011
+552,6,Force India Mercedes,69,2011
+553,7,Sauber Ferrari,44,2011
+554,8,STR Ferrari,41,2011
+555,9,Williams Cosworth,5,2011
+556,10,Lotus Renault,0,2011
+557,11,HRT Cosworth,0,2011
+558,12,Virgin Cosworth,0,2011
+559,1,Red Bull Racing Renault,460,2012
+560,2,Ferrari,400,2012
+561,3,McLaren Mercedes,378,2012
+562,4,Lotus Renault,303,2012
+563,5,Mercedes,142,2012
+564,6,Sauber Ferrari,126,2012
+565,7,Force India Mercedes,109,2012
+566,8,Williams Renault,76,2012
+567,9,STR Ferrari,26,2012
+568,10,Caterham Renault,0,2012
+569,11,Marussia Cosworth,0,2012
+570,12,HRT Cosworth,0,2012
+571,1,Red Bull Racing Renault,596,2013
+572,2,Mercedes,360,2013
+573,3,Ferrari,354,2013
+574,4,Lotus Renault,315,2013
+575,5,McLaren Mercedes,122,2013
+576,6,Force India Mercedes,77,2013
+577,7,Sauber Ferrari,57,2013
+578,8,STR Ferrari,33,2013
+579,9,Williams Renault,5,2013
+580,10,Marussia Cosworth,0,2013
+581,11,Caterham Renault,0,2013
+582,1,Mercedes,701,2014
+583,2,Red Bull Racing Renault,405,2014
+584,3,Williams Mercedes,320,2014
+585,4,Ferrari,216,2014
+586,5,McLaren Mercedes,181,2014
+587,6,Force India Mercedes,155,2014
+588,7,STR Renault,30,2014
+589,8,Lotus Renault,10,2014
+590,9,Marussia Ferrari,2,2014
+591,10,Sauber Ferrari,0,2014
+592,11,Caterham Renault,0,2014
+593,1,Mercedes,703,2015
+594,2,Ferrari,428,2015
+595,3,Williams Mercedes,257,2015
+596,4,Red Bull Racing Renault,187,2015
+597,5,Force India Mercedes,136,2015
+598,6,Lotus Mercedes,78,2015
+599,7,STR Renault,67,2015
+600,8,Sauber Ferrari,36,2015
+601,9,McLaren Honda,27,2015
+602,10,Marussia Ferrari,0,2015
+603,1,Mercedes,765,2016
+604,2,Red Bull Racing TAG Heuer,468,2016
+605,3,Ferrari,398,2016
+606,4,Force India Mercedes,173,2016
+607,5,Williams Mercedes,138,2016
+608,6,McLaren Honda,76,2016
+609,7,Toro Rosso Ferrari,63,2016
+610,8,Haas Ferrari,29,2016
+611,9,Renault,8,2016
+612,10,Sauber Ferrari,2,2016
+613,11,MRT Mercedes,1,2016
+614,1,Mercedes,668,2017
+615,2,Ferrari,522,2017
+616,3,Red Bull Racing TAG Heuer,368,2017
+617,4,Force India Mercedes,187,2017
+618,5,Williams Mercedes,83,2017
+619,6,Renault,57,2017
+620,7,Toro Rosso,53,2017
+621,8,Haas Ferrari,47,2017
+622,9,McLaren Honda,30,2017
+623,10,Sauber Ferrari,5,2017
+624,1,Mercedes,655,2018
+625,2,Ferrari,571,2018
+626,3,Red Bull Racing TAG Heuer,419,2018
+627,4,Renault,122,2018
+628,5,Haas Ferrari,93,2018
+629,6,McLaren Renault,62,2018
+630,7,Force India Mercedes,52,2018
+631,8,Sauber Ferrari,48,2018
+632,9,Scuderia Toro Rosso Honda,33,2018
+633,10,Williams Mercedes,7,2018
+634,EX,Force India Sahara,0,2018
+635,1,Mercedes,739,2019
+636,2,Ferrari,504,2019
+637,3,Red Bull Racing Honda,417,2019
+638,4,McLaren Renault,145,2019
+639,5,Renault,91,2019
+640,6,Scuderia Toro Rosso Honda,85,2019
+641,7,Racing Point BWT Mercedes,73,2019
+642,8,Alfa Romeo Racing Ferrari,57,2019
+643,9,Haas Ferrari,28,2019
+644,10,Williams Mercedes,1,2019
+645,1,Mercedes,264,2020
+646,2,Red Bull Racing Honda,158,2020
+647,3,McLaren Renault,68,2020
+648,4,Racing Point BWT Mercedes,66,2020
+649,5,Ferrari,61,2020
+650,6,Renault,59,2020
+651,7,AlphaTauri Honda,20,2020
+652,8,Alfa Romeo Racing Ferrari,2,2020
+653,9,Haas Ferrari,1,2020
+654,10,Williams Mercedes,0,2020
